@@ -1,5 +1,6 @@
 %
 O01001
+(JDH - Laser POWDER DED at ISU, Haas UMC 750 with AMBIT FLEX)
 (JDH - laser power, powder flow rate, gas flow rates are specified in recipe P9101)
 (JDH - recipes are defined in the DED controller, NOT in the G-code)
 (JDH - G-code calls individual recipes; recipes can be changed on-the-fly)
