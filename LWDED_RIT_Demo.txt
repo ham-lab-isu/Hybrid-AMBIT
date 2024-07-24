@@ -4,7 +4,7 @@ O1001
 (JDH - laser power, powder flow rate, gas flow rates are specified in recipe R01)
 (JDH - recipes are defined in the DED controller, NOT in the G-code)
 (JDH - G-code calls individual recipes; recipes can be changed on-the-fly)
-(JDH - Code generated using Autodesk Fusion 360 + Custom UMC 750 Post Processor)
+(JDH - Code generated using Autodesk Fusion 360 + Custom Fanuc Post Processor)
 (JDH - IMPORTANT M CODES)
 (M98 <RXX> - Recipe assignment for recipe XX, e.g. R01, R02, etc.)
 (M184 - Turn Media on, media includes powder and gas flows)
